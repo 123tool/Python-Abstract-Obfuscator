@@ -16,10 +16,10 @@
 Pastikan Python 3.x sudah terinstal.
 ```bash
 # Clone repository
-git clone [https://github.com/username/python-abstract-obfuscator.git](https://github.com/username/python-abstract-obfuscator.git)
+git clone [https://github.com/123tool/Python-Abstract-Obfuscator.git](https://github.com/123tool/Python-Abstract-Obfuscator.git)
 
 # Masuk ke direktori
-cd python-abstract-obfuscator
+cd Python-Abstract-Obfuscator
 
 # Jalankan alat
 python abstract_obfuscator.py
