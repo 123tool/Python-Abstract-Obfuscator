@@ -1,5 +1,5 @@
 # Obfuscated by Python Abstract Obfuscator 2.5.0-GOLD
-# Author: Byexe
+# Author: 123tool
 # Time: Mon Mar 23 06:17:58 2026
 
 class bgwkvcbunopstvzyzzhl__protector:
