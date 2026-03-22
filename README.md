@@ -24,3 +24,10 @@ cd Python-Abstract-Obfuscator
 # Jalankan alat
 python abstract_obfuscator.py
 
+Atau
+
+pkg update && pkg upgrade
+pkg install python git
+git clone [https://github.com/123tool/Python-Abstract-Obfuscator.git](https://github.com/123tool/Python-Abstract-Obfuscator.git)
+cd Python-Abstract-Obfuscator
+python abstract_obfuscator.py
