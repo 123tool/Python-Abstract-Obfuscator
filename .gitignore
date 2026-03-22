@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution files
+dist_*.py
+obfuscated_*.py
+
+# Environments
+.venv
+env/
+venv/
